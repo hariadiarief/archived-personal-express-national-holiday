@@ -20,8 +20,6 @@ Libur Nasional Indonesia
 
 ## Starting App
 
-Without migrations
-
 ```sh
 npm start
 # or
